@@ -44,13 +44,13 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with expertise in both 
 ## 🚀 Projects
 
 Here are some of my recent projects:
-1. [Laravel Fuzzy Search]([https://github.com/your-repo/project-1](https://github.com/soliyer/laravel-fuzzy-search))
+1. [Laravel Fuzzy Search](https://github.com/your-repo/project-1](https://github.com/soliyer/laravel-fuzzy-search))
    - This Laravel package provides a FuzzySearchable trait for Eloquent models, enabling easy implementation of search functionality with support for concatenated attributes. It's designed to enhance search experiences in Laravel applications by allowing more flexible and user-friendly search queries, including partial matches and concatenated field searches.
-2. [Expense Tracker]([https://github.com/your-repo/project-2](https://github.com/soliyer/Expense_Tracker))
+2. [Expense Tracker](https://github.com/your-repo/project-2](https://github.com/soliyer/Expense_Tracker))
    - A fully-responsive Application with Nuxt js Framework to Track expenses.
 
 ## 🔗 Contact
 
-Feel free to explore my projects, connect with me via [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/soheil-vafaei/)), or send me an email at `vafaei39@gmail.com`.
+Feel free to explore my projects, connect with me via [LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/soheil-vafaei/)), or send me an email at `vafaei39@gmail.com`.
 
 Thank you for visiting my GitHub profile!
