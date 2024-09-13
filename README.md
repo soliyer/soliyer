@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Soheil Vafaei - Full Stack Developer
 
 Welcome to my GitHub profile! I'm a Full Stack Developer with expertise in both back-end and front-end technologies. Below, you'll find my professional experiences, skills, and some of my featured projects.
