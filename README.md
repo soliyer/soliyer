@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with expertise in both 
 
 ## 🛠️ Skills
 
-- **Programming Languages:** PHP, SQL, ASP.NET, Python
+- **Programming Languages:** PHP, SQL, ASP.NET, Python, C#
 - **Frameworks:** Laravel, Vue.js, Next.js, Django
 - **Technologies:** API Testing, RESTful APIs, Git, OAuth, JWT, Laravel Passport
 - **Optimization Techniques:** Caching, Lazy Loading, Database Optimization
@@ -48,6 +48,11 @@ Here are some of my recent projects:
    - This Laravel package provides a FuzzySearchable trait for Eloquent models, enabling easy implementation of search functionality with support for concatenated attributes. It's designed to enhance search experiences in Laravel applications by allowing more flexible and user-friendly search queries, including partial matches and concatenated field searches.
 2. [Expense Tracker](https://github.com/soliyer/Expense_Tracker)
    - A fully-responsive Application with Nuxt js Framework to Track expenses.
+  
+3. [Arduino Line-Tracking Car Robot](https://github.com/soliyer/LineTracking)
+  - This project is a line-following robot that uses RGB LEDs for visual feedback. The robot is designed to follow a line on the ground using sensors and control the LED colors based on its movements.
+
+and ...
 
 ## 🔗 Contact
 
