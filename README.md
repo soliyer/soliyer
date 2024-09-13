@@ -34,8 +34,8 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with expertise in both 
 
 ## 🛠️ Skills
 
-- **Programming Languages:** PHP, SQL, ASP.NET
-- **Frameworks:** Laravel, Vue.js
+- **Programming Languages:** PHP, SQL, ASP.NET, Python
+- **Frameworks:** Laravel, Vue.js, Next.js, Django
 - **Technologies:** API Testing, RESTful APIs, Git, OAuth, JWT, Laravel Passport
 - **Optimization Techniques:** Caching, Lazy Loading, Database Optimization
 - **Version Control:** Git
